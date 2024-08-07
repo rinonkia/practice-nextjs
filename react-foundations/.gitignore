@@ -1,0 +1,8 @@
+.next
+node_modules
+
+# Editor directories and files
+.vs_code/*
+!.vscode/extensions.json
+.idea
+.DS_Store
